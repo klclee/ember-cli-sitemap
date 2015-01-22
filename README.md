@@ -1,1 +1,1 @@
-# ember-cli-sitemap
+# Ember-cli-sitemap
