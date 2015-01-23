@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-sitemap",
-  "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.2",
+  "description": "Ember-Cli Sitemap. This addon fetches sitemap from server to inculde as part of the build.",
   "directories": {
     "doc": "doc",
     "test": "tests"
